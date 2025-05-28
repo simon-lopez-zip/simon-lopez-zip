@@ -1,4 +1,4 @@
-Hi! 👋 My name is Simon Lopez, and I'm a Junior Developer from  
+<h1 align="center">Hi! 👋 My name is Simon Lopez</h1>
 
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
