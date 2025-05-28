@@ -8,7 +8,7 @@
 
 <hr>
 
-<h3 align="left">I have work with: </h3>
+<h3 align="left">I have work with... </h3>
 <h5>Programming Languages: </h5>
 <p align="left"> 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/2febc8f9-408b-4fea-8989-f600144c59d2" alt="java"/> </a> 
