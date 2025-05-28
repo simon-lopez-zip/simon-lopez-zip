@@ -3,7 +3,7 @@
 <h3 align="center">Find me here: </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/simon-lopez-824bb21a3/" target="blank"><img src="https://github.com/user-attachments/assets/2bf7418e-245c-45a0-9523-ee2ca21cadef" alt="linkedin" /></a>   &nbsp;&nbsp;&nbsp;
-<a href="slopez.xp@gmail.com" target="blank"><img src="https://github.com/user-attachments/assets/3eb24d66-4f80-429c-b33f-d8b59ec95b13" alt="gmail" /></a>
+<a href="mailto:slopez.xp@gmail.com" target="blank"><img src="https://github.com/user-attachments/assets/3eb24d66-4f80-429c-b33f-d8b59ec95b13" alt="gmail" /></a>
 </p>
 
 <hr>
