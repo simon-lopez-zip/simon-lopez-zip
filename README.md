@@ -1,4 +1,4 @@
-<h1 align="center">![image](https://github.com/user-attachments/assets/12ce08c6-bdd3-47ca-beca-89056ed35520)  Hey! Nice to see you.</h1>
+<h1 align="center">Hey! 😎 Nice to see you.</h1>
 
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
