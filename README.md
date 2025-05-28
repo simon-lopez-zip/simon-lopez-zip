@@ -6,6 +6,8 @@
 <a href="slopez.xp@gmail.com" target="blank"><img src="https://github.com/user-attachments/assets/3eb24d66-4f80-429c-b33f-d8b59ec95b13" alt="gmail" /></a>
 </p>
 
+<hr>
+
 <h3 align="left">I have work with: </h3>
 <h5>Programming Languages: </h5>
 <p align="left"> 
@@ -34,3 +36,5 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/f1ece785-4d37-413d-a45a-cebf3a37fa41" alt="linux"/> </a> 
 <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/46aee7c4-25a0-434f-af4b-809380be3b74" alt="xampp"/> </a> 
 </p>
+
+<hr>
