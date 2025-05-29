@@ -1,8 +1,4 @@
 # Hi there 👋, I'm Simon Lopez 👨‍💻
-## Jr. Full-Stack Developer | Game Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-lopez-824bb21a3/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slopez.xp@gmail.com)
 
 ## 🛠️ Technologies & Skills
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
